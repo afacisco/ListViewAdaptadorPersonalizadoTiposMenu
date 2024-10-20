@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mnOp1"
+        android:title="@string/op1_text"
+        android:orderInCategory="100">
+        <menu>
+            <item
+                android:id="@+id/sub_option1"
+                android:title="@string/op11_text" />
+            <item
+                android:id="@+id/sub_option2"
+                android:title="@string/op12_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/mnOp2"
+        android:title="@string/op2_text"
+        android:orderInCategory="200"/>
+    <item
+        android:id="@+id/mnOp3"
+        android:title="@string/op3_text"
+        android:orderInCategory="300"/>
+    <item
+        android:id="@+id/mnOp4"
+        android:title="@string/op_salir_text"
+        android:icon="@android:drawable/ic_lock_power_off"
+        app:showAsAction="always"/>
+</menu>

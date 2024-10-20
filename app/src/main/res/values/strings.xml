@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListViewAdaptadorPersonalizadoTiposMenu</string>
+    <string name="op1_text">Opción 1</string>
+    <string name="op2_text">Opción 2</string>
+    <string name="op3_text">Opción 3</string>
+    <string name="op11_text">SubOpción 1 &#8211; 1</string>
+    <string name="op12_text">SubOpción 1 &#8211; 2</string>
+    <string name="op_salir_text">Opción Salir</string>
+    <string name="tv_text">Menú Contextual</string>
+    <string name="datos_tit1">Texto Título 1</string>
+    <string name="datos_tit2">Texto Título 2</string>
+    <string name="datos_tit3">Texto Título 3</string>
+    <string name="datos_desc1">Texto Descripción 1</string>
+    <string name="datos_desc2">Texto Descripción 2</string>
+    <string name="datos_desc3">Texto Descripción 3</string>
+    <string name="cab_listado_text">Cabecera del Listado</string>
+</resources>
